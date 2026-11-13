@@ -18,6 +18,9 @@ Answers questions over a company's Confluence with the sources attached. Hybrid 
 **[Gappy](https://github.com/theCodeForgerHQ/Gappy)**  
 An agent that fixes bugs in Python repos, but it doesn't decide when it's done. A failing test you wrote has to pass, and a second agent reviews the diff to make sure it didn't just weaken the test. Won the Gappy AI hackathon.
 
+**[Sevi](https://github.com/theCodeForgerHQ/sevi)**  
+A hearing screen you can take on a phone, in Tamil. It plays three digits in background noise, adjusts the noise based on your answers, and tells you in plain words whether you should get a proper hearing check. You can answer by voice or keypad. The test logic and results are decided in code, not by a model.
+
 ### Achievements
 
 - Winner (Student), Microsoft Agents League Hackathon 2026, Athenaeum
