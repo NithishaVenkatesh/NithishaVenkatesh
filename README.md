@@ -2,9 +2,7 @@
 
 AI engineer. I build LLM systems (RAG, agents, guardrails) and spend most of my time on the part after the demo works: making them reliable.
 
-- Contract AI engineer at **iQube** since 2024 (work is under NDA, so it's not here)
 - Won Microsoft's Agents League (student) with **Athenaeum** and the Gappy AI Hackathon with **Gappy**
-- Open to full-time AI and backend roles
 
 ### Work I'm proud of
 
@@ -36,5 +34,7 @@ An agent that fixes bugs in Python repos, but it doesn't decide when it's done. 
 - **ML / DL:** classical ML, time-series forecasting, CNNs, RNNs/LSTMs, transformers, transfer learning
 - **LLMs:** RAG and hybrid retrieval, embeddings, evals, guardrails, NLI-based answer checking
 - **Tooling:** OpenAI and Claude Agent SDKs, LangGraph, Hugging Face, Cohere, Pinecone, Milvus, Qdrant, pgvector, LangSmith
+
+Open to full-time AI and backend roles.
 
 [nithisha.vercel.app](https://nithisha.vercel.app) · [email](mailto:nithishaleni1806@gmail.com) · [linkedin](https://linkedin.com/in/nithisha-v)
