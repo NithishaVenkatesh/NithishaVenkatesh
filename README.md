@@ -1,31 +1,22 @@
-# Nithisha
+### hi, i'm nithisha
 
-I build LLM systems, then spend most of my time on what happens when they break. The retry that never fires, the fallback model that's also down, the prompt injection sitting inside someone's README.
+i build LLM systems for a living and try to break them for fun. current theory: half of all "the AI is being weird" bugs are actually retry bugs.
 
-Mostly Python. TypeScript when the backend needs a face.
+**stuff i've shipped**
 
-### Things I've built
+- [**athenaeum**](https://github.com/NithishaVenkatesh/athenaeum-multi-agent-system) · a tutor made of agents. it cites every claim and can't be sweet-talked into a better grade. i threw 232 jailbreaks at it before i trusted it. *(Microsoft Agents League, global student award)*
+- [**wolff**](https://github.com/NithishaVenkatesh/wolff) · quote → e-signature → GST invoice → paid. 2,800+ tests, $0 hosting, and an assistant that only knows your own documents.
+- [**nucleus**](https://github.com/NithishaVenkatesh/Nucleus-AI) · ask your company's Confluence a question, get an answer with receipts. it also checks whether the answer contradicts its own sources, which happens more often than you'd hope.
+- [**gappy**](https://github.com/theCodeForgerHQ/Gappy) · an agent that fixes your bugs but doesn't get to decide when it's done. your failing test has to go green, and a second agent makes sure it didn't just delete the test. *(won the Gappy AI hackathon)*
 
-**[Athenaeum](https://github.com/theCodeForgerHQ/athenaeum-multi-agent-system)**: a multi-agent tutor that cites everything it says and grades exams it can't be sweet-talked out of. Every answer goes through an injection gate, a router and a grounding check, and you can open the trace and watch it happen. I threw 232 attack prompts at the safety layer before I trusted it. Won the student award at Microsoft's Agents League.
+**smaller, weirder**
 
-**[Gappy](https://github.com/theCodeForgerHQ/Gappy)**: an agent that fixes bugs in Python repos, with one rule: a fix only counts when a failing pytest you wrote turns green. The agent writes the patch, never the test. A second agent then checks the diff for cheating (deleted tests, hard-coded answers) before a human approves the PR. Won the Gappy AI hackathon.
+- [resident](https://github.com/NithishaVenkatesh/Paritok) · turns out the most useful response in an API was an empty `200`. long story, good README.
+- [upi-agent-conformance](https://github.com/NithishaVenkatesh/upi-agent-conformance) · reads RBI circulars so payment agents don't have to.
+- [urbantwin](https://github.com/NithishaVenkatesh/urban-finals) · trained a LiDAR detector without ever showing it real data. 3rd place, DriveX @ ECCV 2026.
 
-**[Nucleus AI](https://github.com/theCodeForgerHQ/Nucleus-AI)**: RAG over Confluence. Hybrid retrieval, cross-encoder reranking, and an NLI pass that catches answers contradicting their own sources.
+also flew drones to AIR 13 at NIDAR and made the finals of the Japan Automotive AI Challenge.
 
-**[Resident](https://github.com/NithishaVenkatesh/Paritok)**: Paritok's compressor returns an empty 200 when a chunk is irrelevant to your query. Every client I read treated that as an error and sent the original text anyway. Read it as a zero-token verdict instead and a whole repo fits in one context window.
+**right now** i'm looking for my next team. if you're building agents that need to work on a random tuesday and not just in the demo, [say hi](mailto:nithishaleni1806@gmail.com).
 
-**[upi-agent-conformance](https://github.com/NithishaVenkatesh/upi-agent-conformance)**: checks a merchant's payment terms against RBI/NPCI circulars before any money moves, and quotes the clause when it refuses.
-
-**[UrbanTwin LUMPI](https://github.com/NithishaVenkatesh/urban-finals)**: 3D LiDAR detectors trained only on synthetic CARLA data, tested on real roadside scans from Hannover. 3rd place at the DriveX workshop, ECCV 2026.
-
-**[wolff](https://github.com/theCodeForgerHQ/wolff)**: quote-to-cash for freelancers. Quotes, e-signatures, GST invoices, Razorpay, and an assistant that only answers from your own documents.
-
-### Also
-
-- AIR 13 at NIDAR, the national drone challenge
-- Finalist, Japan Automotive AI Challenge 2026
-- Top 5, Techathon 2.0
-
-### Elsewhere
-
-[portfolio](https://nithisha.vercel.app) · [linkedin](https://linkedin.com/in/nithisha-v) · [email](mailto:nithishaleni1806@gmail.com)
+[portfolio](https://nithisha.vercel.app) · [linkedin](https://linkedin.com/in/nithisha-v)
