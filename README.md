@@ -1,6 +1,10 @@
-## Nithisha Venkatesh
+## Hi, I'm Nithisha 👋
 
-AI engineer. I build LLM systems (RAG, multi-agent setups, guardrails) and spend most of my time on what happens after the demo works.
+AI engineer. I build LLM systems (RAG, agents, guardrails) and spend most of my time on the part after the demo works: making them reliable.
+
+- Contract AI engineer at **iQube** since 2024 (work is under NDA, so it's not here)
+- Won Microsoft's Agents League (student) with **Athenaeum** and the Gappy AI Hackathon with **Gappy**
+- Open to full-time AI and backend roles
 
 ### Work I'm proud of
 
@@ -16,23 +20,21 @@ Answers questions over a company's Confluence with the sources attached. Hybrid 
 **[Gappy](https://github.com/theCodeForgerHQ/Gappy)**  
 An agent that fixes bugs in Python repos, but it doesn't decide when it's done. A failing test you wrote has to pass, and a second agent reviews the diff to make sure it didn't just weaken the test. Won the Gappy AI hackathon.
 
-### How I work
-
-- I write down how a system should fail before I write how it should work. Retries, fallbacks and timeouts are part of the design, not a patch.
-- Every number in my READMEs came from a run I can reproduce.
-- I'd rather ship something narrow that works than something broad that demos well.
-
 ### Achievements
 
-- Global Student Award, Microsoft Agents League 2026
-- Winner, Gappy AI Hackathon 2026
-- 3rd place, UrbanTwin Sim2Real LiDAR Challenge (DriveX @ ECCV 2026)
-- AIR 13, National Innovation Challenge for Drone Application & Research
-- Finalist, Japan Automotive AI Challenge 2026
-- Top 5, Techathon 2.0
+- Winner (Student), Microsoft Agents League Hackathon 2026, Athenaeum
+- Winner, Gappy AI Hackathon 2026, Gappy
+- 3rd place, UrbanTwin Sim2Real LiDAR Challenge, Lumpi track (DriveX @ ECCV 2026)
+- AIR 13, National Innovation Challenge for Drone Application & Research (NIDAR) 2026
+- Finalist, Japan Automotive AI Challenge 2026 (leaderboard rank 11)
+- Top 5, Techathon 2.0 Naari Shakti 2026
 
-### Tools I reach for
+### What I work with
 
-Python, TypeScript · FastAPI, Next.js · LangGraph, OpenAI and Claude Agent SDKs · Pinecone, Qdrant, pgvector · Azure AI, Groq · LangSmith · PyTorch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Open to full-time AI and backend roles. [nithisha.vercel.app](https://nithisha.vercel.app) · [email](mailto:nithishaleni1806@gmail.com) · [linkedin](https://linkedin.com/in/nithisha-v)
+- **ML / DL:** classical ML, time-series forecasting, CNNs, RNNs/LSTMs, transformers, transfer learning
+- **LLMs:** RAG and hybrid retrieval, embeddings, evals, guardrails, NLI-based answer checking
+- **Tooling:** OpenAI and Claude Agent SDKs, LangGraph, Hugging Face, Cohere, Pinecone, Milvus, Qdrant, pgvector, LangSmith
+
+[nithisha.vercel.app](https://nithisha.vercel.app) · [email](mailto:nithishaleni1806@gmail.com) · [linkedin](https://linkedin.com/in/nithisha-v)
