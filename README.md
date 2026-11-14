@@ -40,4 +40,4 @@ A hearing screen you can take on a phone, in Tamil. It plays three digits in bac
 
 Open to full-time AI and backend roles.
 
-[nithisha.vercel.app](https://nithisha.vercel.app) · [email](mailto:nithishaleni1806@gmail.com) · [linkedin](https://linkedin.com/in/nithisha-v)
+[email](mailto:nithishaleni1806@gmail.com) · [linkedin](https://linkedin.com/in/nithisha-v)
